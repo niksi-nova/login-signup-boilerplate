@@ -1,4 +1,4 @@
-✅ COPY–PASTE README BELOW
+
 # 🔐 Full-Stack Auth Boilerplate  
 ### React (Vite) + Node.js + Express + MongoDB (Atlas)
 
